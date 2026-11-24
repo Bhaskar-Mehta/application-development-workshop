@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Downloads\\task 3\\task 3.csproj": {}
+    "C:\\Users\\acer\\Downloads\\application-development-workshop\\task 3\\task 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Downloads\\task 3\\task 3.csproj": {
+    "C:\\Users\\acer\\Downloads\\application-development-workshop\\task 3\\task 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Downloads\\task 3\\task 3.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Downloads\\application-development-workshop\\task 3\\task 3.csproj",
         "projectName": "task 3",
-        "projectPath": "C:\\Users\\acer\\Downloads\\task 3\\task 3.csproj",
+        "projectPath": "C:\\Users\\acer\\Downloads\\application-development-workshop\\task 3\\task 3.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Downloads\\task 3\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Downloads\\application-development-workshop\\task 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

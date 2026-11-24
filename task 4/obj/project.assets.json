@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acer\\Downloads\\task 4\\task 4.csproj",
+      "projectUniqueName": "C:\\Users\\acer\\Downloads\\application-development-workshop\\task 4\\task 4.csproj",
       "projectName": "task 4",
-      "projectPath": "C:\\Users\\acer\\Downloads\\task 4\\task 4.csproj",
+      "projectPath": "C:\\Users\\acer\\Downloads\\application-development-workshop\\task 4\\task 4.csproj",
       "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acer\\Downloads\\task 4\\obj\\",
+      "outputPath": "C:\\Users\\acer\\Downloads\\application-development-workshop\\task 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
