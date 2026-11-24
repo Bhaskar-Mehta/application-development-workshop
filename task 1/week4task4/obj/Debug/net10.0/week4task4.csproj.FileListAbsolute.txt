@@ -1,0 +1,15 @@
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\bin\Debug\net10.0\week4task4.exe
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\bin\Debug\net10.0\week4task4.deps.json
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\bin\Debug\net10.0\week4task4.runtimeconfig.json
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\bin\Debug\net10.0\week4task4.dll
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\bin\Debug\net10.0\week4task4.pdb
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\obj\Debug\net10.0\week4task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\obj\Debug\net10.0\week4task4.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\obj\Debug\net10.0\week4task4.AssemblyInfo.cs
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\obj\Debug\net10.0\week4task4.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\obj\Debug\net10.0\week4task4.sourcelink.json
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\obj\Debug\net10.0\week4task4.dll
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\obj\Debug\net10.0\refint\week4task4.dll
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\obj\Debug\net10.0\week4task4.pdb
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\obj\Debug\net10.0\week4task4.genruntimeconfig.cache
+C:\Users\acer\Downloads\application-development-workshop\task 1\week4task4\obj\Debug\net10.0\ref\week4task4.dll
